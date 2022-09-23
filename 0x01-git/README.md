@@ -1,1 +1,1 @@
-first directory
+all abou git
